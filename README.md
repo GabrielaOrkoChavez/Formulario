@@ -1,6 +1,5 @@
-#Projeto Formulário
-
-<h2>Esse é um projeto de formulário sobre autoconhecimento 😎<h2>
+Projeto Formulário
+<p>Esse é um projeto de formulário sobre autoconhecimento 😎<p>
 
 
 <h2>Pré visualização do projeto<h2></h2>
