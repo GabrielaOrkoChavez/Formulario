@@ -1,0 +1,41 @@
+body{
+
+    width: 100%;
+    height: auto;
+    display: block ;
+    background-color: rgb(135, 203, 255);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+input:hover{
+    border: 1px solid rgb(118, 144, 250);
+}
+
+
+input::placeholder{
+    color: rgb(0, 13, 114);
+}
+
+
+
+input{
+    border-radius: 3px;
+    border: 1px solid rgb(38, 61, 166);
+}
+
+div{
+    border-radius: 20px;
+    width: 52%;
+    height: 52%;
+    padding: 1.5%;
+    margin: auto;
+    margin-top: 10px;
+    background-color: #c2d4ff;
+    box-shadow: 5px 5px 2.5px #7184b0;
+}
+
+h2  {
+    text-align: center;
+    margin-bottom: 4%;
+}
